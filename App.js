@@ -29,7 +29,7 @@ import {
 const App=()=>{
   return(
       <View style={{}}>
-        <Text style={{fontSize:20}}>hdrk</Text>
+        <Text style={{fontSize:20}}>hgf</Text>
       </View>
   );
 }
